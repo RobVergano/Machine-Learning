@@ -4,13 +4,13 @@ Author: Roberto Vergano
 
 ## Prerequisites
 
-Python environment.
+Python environment.  
 Jupyter notebook. 
 
 ## Getting started
 
-Download the repository and open it in your integrated development environment.
-Once the file is opened, "run all" to execute all the cells. Please see Python modules required.
+Download the repository and open it in your integrated development environment.  
+Once the file is opened, "run all" to execute all the cells. Please see Python modules required.  
 
 ## Content
 
